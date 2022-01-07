@@ -952,7 +952,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackgroundImage = global::Team3.Properties.Resources.Background;
-            this.ClientSize = new System.Drawing.Size(1295, 749);
+            this.ClientSize = new System.Drawing.Size(1295, 864);
             this.Controls.Add(this.gbxMenu);
             this.Controls.Add(this.groupBox4);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
